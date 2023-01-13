@@ -1,15 +1,3 @@
 owner:
-  name: {
-  "type": "service_account",
-  "project_id": "magilhubstaging",
-  "private_key_id": "dd215a94d3a74d1d787209d0c9a5d95ae2fcc0c5",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDYaHwM/pg9K7fy\nl0yNj+p+U1VoqYidRaeY3iyJyW4w9b8/+HDuIcw4ubymt3R7wrSKIGqfQqC6Fe6C\nbl1nZfWlFTQHhH0I/IxQNxQrCfu+VDrzsWDBG0IZcjl8KpaiXYD12dxaMFhMVS2h\nqVqT/4MbCtQktGOECncXaTJMKAmBjgwJTI+fl+RcFPCYbrx/RMzAX/UWKArwcjM3\nXrnAAFO5ZwAxKBLjwzGBDTFVstmEIhQcb16pTXBITPzooJaZuccAju6jPoXRlzYo\nwjtSs6JIhMDwsb1k0NiUku6624PdChuNrBlmME/AFF+NX3JlpezKezPmaTTqeSjw\nf7BR/bS1AgMBAAECggEAAj9qxm6TuzlSH345AjsAvWlbkj45WCGjx3+YDwhQd8hQ\n2uokL70AurgaWje+lhVKiPXxCMPWGO8Z+2Q7d4b3rn+SLkY1T3VI3QGgpbL+JX08\nRx3l1BIJ6J5aM+ZA8UfIvp6RxNgKtFd2i8U1o4lJKp89Ej9TZ0j9vd8B8dUnbOwj\nx++E/MDGykPNZm7NJvUgZovzpKEseJ6slnZQOlm5FCyMf+2n0egp6MXp5MkpHJim\n1Nzt7G5VzkGs7KGvZyrwrtrhuuPt8Gw3ItuK0PRrTldcV2FmclAbO0PzM8QxpIWi\nNnJIvUBQG9X2xZGu3YSyXa8vTBF2v09AniAxB2eUQwKBgQD5I3ZkhzVz0Xwzi5bT\n62oAb2B14q6OHYpP8KFWgo648WDCIXng+GQbCGbRHPKXxyMo6NoVNLQ18K+Wpmq+\nhO6RG2sO8dbI7D9weXHvDOnCqG3nesfmyYzesOuxFMZhqXqEhxMqSH+/3vlHXIDl\nOwFZD8mYn3oCpPYHc7QJ68uKVwKBgQDeXkIiHgB0IuArfh6BSGubIn6UTm70/CUm\nIVtPDtPwfezxH4fHWfvVUd35Nm+8/zzjCPMzNMrurWgT+AsIY1dlNUv4TKFOHqMx\nQT3+FgM9st5LBbZOAhEc6cpXcSGnXddySjfo71YqqC1U6nvHa965uIfxh9xsiW7Z\ng2k++ktp0wKBgQC61flnkm5nmOZH0Zse+iDYiq4QOhslwMmFAbQ8qFRYJcymSWyZ\nZi3MiBRzJf5YDKM1fspttMSg3wsPM2ZB0ncGo0U6Q+sLawB4XNswpsJ3lNA3FEDt\ntqDKMGvQtP/BJdQXpyScRRpozdKrzZdsUT/Fhq1so8xgR02qcP7HoelWqQKBgQCf\np7F36W6N89RbpculKygHVHbpaH8F6luJyv1R/+VvkBok7WyBVzwW5xamrc0AN4mx\nwGVM6KSjRWGqpLbXKOxAwElxVyOhgSHOZXdrDMb674fm+Yzw6U78IWej7JgrIJdl\neaA24FBPhDw38bs5bVuWoMUKR2+dhfdOuKlCDFdE/QKBgB4Q9wrs58xKiMu4puTy\nCkfAtLhtJpMRpfqmdrib/4s3EtA7jkGb1TE4CL3hb/rKDGL4/TvFgWUMmAKlMf2E\nTvuGgSPSbx68RqIptAjx/pfwfXkQwMOhvg4Z3jQ0Dt0gGxYgHTLOUvabN6A42xsn\nKfoag2ruNFOduruqgmVwR9/r\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-gv5q0@magilhubstaging.iam.gserviceaccount.com",
-  "client_id": "115019166299975475487",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gv5q0%40magilhubstaging.iam.gserviceaccount.com"
-}
-
+  name: roshan
 
